@@ -1,0 +1,10 @@
+c:\users\jkebx\source\repos\BillReminder2\BillReminder2\bin\Debug\BillReminder2.exe.config
+c:\users\jkebx\source\repos\BillReminder2\BillReminder2\bin\Debug\BillReminder2.exe
+c:\users\jkebx\source\repos\BillReminder2\BillReminder2\bin\Debug\BillReminder2.pdb
+c:\users\jkebx\source\repos\BillReminder2\BillReminder2\obj\Debug\BillReminder2.csprojAssemblyReference.cache
+c:\users\jkebx\source\repos\BillReminder2\BillReminder2\obj\Debug\BillReminder2.BillReminder.resources
+c:\users\jkebx\source\repos\BillReminder2\BillReminder2\obj\Debug\BillReminder2.Properties.Resources.resources
+c:\users\jkebx\source\repos\BillReminder2\BillReminder2\obj\Debug\BillReminder2.csproj.GenerateResource.cache
+c:\users\jkebx\source\repos\BillReminder2\BillReminder2\obj\Debug\BillReminder2.csproj.CoreCompileInputs.cache
+c:\users\jkebx\source\repos\BillReminder2\BillReminder2\obj\Debug\BillReminder2.exe
+c:\users\jkebx\source\repos\BillReminder2\BillReminder2\obj\Debug\BillReminder2.pdb
